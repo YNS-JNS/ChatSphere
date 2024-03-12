@@ -76,7 +76,7 @@ This gofullstack web Application was created with ❤️ by [AIT M'BAREK Youness
 
 ## Learn More
 
-- Angular Documentation: [https://angular.io/docs](https://angular.io/docs)
+- React Documentation: [https://reactjs.org/](https://reactjs.org/)
 
 ## Contribution
 
